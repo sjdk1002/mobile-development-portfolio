@@ -13,12 +13,7 @@ React 웹과 Capacitor 기반 iOS·Android 앱 전반을 개발했습니다.
 
 React에서 파일명, MIME 타입과 base64 데이터를 넘기면 Capacitor 플러그인이 입력을 확인하고 플랫폼 기능을 호출하도록 구성했습니다.
 
-```mermaid
-flowchart TD
-    A["React: 파일명, MIME, base64"] --> B["Capacitor 플러그인"]
-    B --> C["iOS: 임시 파일과 공유 시트"]
-    B --> D["Android: 파일 URI와 공유 Intent"]
-```
+![처리 흐름](../assets/capacitor-file-sharing.svg)
 
 ### iOS
 

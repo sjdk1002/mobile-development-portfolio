@@ -15,11 +15,7 @@
 - 화면을 닫을 때 정리 함수를 먼저 호출한 뒤 `dismiss`하도록 연결했습니다.
 - 지도 검색 화면은 `viewWillDisappear`에서 마커의 지도 연결과 터치 핸들러를 해제했습니다.
 
-```mermaid
-flowchart LR
-    A["화면 닫기 요청"] --> B["마커와 delegate 참조 정리"]
-    B --> C["dismiss"]
-```
+![처리 흐름](../assets/ios-lifecycle.svg)
 
 ## 이 작업에서 다룬 점
 
