@@ -2,6 +2,8 @@
 
 H2CARE Biz · React, TypeScript, Capacitor, Swift, Java
 
+공유 입력과 iOS 공유 시트를 새로 구현한 공개 예제: [SharePayload](../examples/swift/Sources/CaseStudyCore/SharePayload.swift), [SystemFileShare](../examples/swift/Sources/UIKitExamples/SystemFileShare.swift). 이번 예제는 iOS 부분이며 [재구현 범위](../examples/README.md)에 설명돼 있습니다.
+
 ## 맡은 범위
 
 React 웹과 Capacitor 기반 iOS·Android 앱 전반을 개발했습니다.

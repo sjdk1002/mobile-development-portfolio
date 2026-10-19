@@ -2,6 +2,8 @@
 
 카찹 iOS · Swift, UIKit, 지도 SDK, 채팅 SDK
 
+관련 문제를 새로 구현한 공개 예제: [CleanupScope](../examples/swift/Sources/CaseStudyCore/CleanupScope.swift), [UIKit 화면 연결](../examples/swift/Sources/UIKitExamples/MapChatViewController.swift). [제품 변경과 예제의 범위](../examples/README.md)를 함께 볼 수 있습니다.
+
 ## 상황
 
 카풀·지도 화면은 마커와 이벤트 핸들러, 채팅 delegate를 함께 사용했습니다.

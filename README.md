@@ -8,6 +8,19 @@
 이 저장소에는 직접 맡았던 작업 중 설명할 수 있는 사례를 정리했습니다.
 처리 흐름과 변경 내용을 글과 도식으로 담았습니다.
 
+## 공개용 코드
+
+실제 작업에서 다룬 문제를 **공개용 독립 예제로 다시 구현**했습니다. 2026년 10월에 작성한 코드이며 과거 제품의 원본과 구분합니다.
+
+| 예제 | 바로 볼 코드 | 실행·설명 |
+| --- | --- | --- |
+| Swift / UIKit | [화면 자원 정리](examples/swift/Sources/CaseStudyCore/CleanupScope.swift), [UIKit 연결](examples/swift/Sources/UIKitExamples/MapChatViewController.swift) | [Swift 안내](examples/swift/README.md) |
+| 채팅·알림 진입 | [메시지 목록](examples/swift/Sources/CaseStudyCore/ChatTimeline.swift), [알림 라우팅](examples/swift/Sources/CaseStudyCore/PendingChatRouter.swift) | [단위 테스트](examples/swift/Tests/CaseStudyCoreTests) |
+| iOS 파일 공유 | [입력 확인](examples/swift/Sources/CaseStudyCore/SharePayload.swift), [공유 시트](examples/swift/Sources/UIKitExamples/SystemFileShare.swift) | [재구현 범위](examples/README.md) |
+| React / TypeScript | [요청 공유·캐시](examples/react/src/RequestPool.ts), [React 훅](examples/react/src/useSharedResource.ts) | [React 안내](examples/react/README.md) |
+
+[![Verify examples](https://github.com/sjdk1002/mobile-development-portfolio/actions/workflows/verify-examples.yml/badge.svg)](https://github.com/sjdk1002/mobile-development-portfolio/actions/workflows/verify-examples.yml)
+
 ## 맡았던 범위
 
 | 프로젝트 | 담당한 일 | 사용 기술 |
