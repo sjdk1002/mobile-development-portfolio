@@ -15,7 +15,7 @@
 | 예제 | 바로 볼 코드 | 실행·설명 |
 | --- | --- | --- |
 | Swift / UIKit | [화면 자원 정리](examples/swift/Sources/CaseStudyCore/CleanupScope.swift), [UIKit 연결](examples/swift/Sources/UIKitExamples/MapChatViewController.swift) | [Swift 안내](examples/swift/README.md) |
-| 채팅·알림 진입 | [메시지 목록](examples/swift/Sources/CaseStudyCore/ChatTimeline.swift), [알림 라우팅](examples/swift/Sources/CaseStudyCore/PendingChatRouter.swift) | [단위 테스트](examples/swift/Tests/CaseStudyCoreTests) |
+| 채팅·알림 진입 | [메시지 목록](examples/swift/Sources/CaseStudyCore/ChatTimeline.swift), [알림 라우팅](examples/swift/Sources/CaseStudyCore/PendingChatRouter.swift) | [단위 테스트](examples/swift/Tests/CaseStudyCoreTests/ChatTimelineTests.swift) |
 | iOS 파일 공유 | [입력 확인](examples/swift/Sources/CaseStudyCore/SharePayload.swift), [공유 시트](examples/swift/Sources/UIKitExamples/SystemFileShare.swift) | [재구현 범위](examples/README.md) |
 | React / TypeScript | [요청 공유·캐시](examples/react/src/RequestPool.ts), [React 훅](examples/react/src/useSharedResource.ts) | [React 안내](examples/react/README.md) |
 
