@@ -2,6 +2,8 @@
 
 카찹 iOS · Swift, UIKit, 채팅 SDK, 푸시
 
+[카찹 iOS 앱 화면과 구동 방식](../apps/carchap-ios.md)
+
 관련 문제를 새로 구현한 공개 예제: [ChatTimeline](../examples/swift/Sources/CaseStudyCore/ChatTimeline.swift), [PendingChatRouter](../examples/swift/Sources/CaseStudyCore/PendingChatRouter.swift). [제품 변경과 예제의 범위](../examples/README.md)를 함께 볼 수 있습니다.
 
 ## 초기 조회와 실시간 수신이 겹치는 경우

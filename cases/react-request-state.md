@@ -2,6 +2,8 @@
 
 H2CARE BizPro·관리자 웹 · React, TypeScript, React Query
 
+[H2CARE Biz 앱 화면과 구동 방식](../apps/h2care-biz.md)
+
 관련 문제를 새로 구현한 공개 예제: [RequestPool](../examples/react/src/RequestPool.ts), [React 훅](../examples/react/src/useSharedResource.ts), [테스트 안내](../examples/react/README.md). [제품 변경과 예제의 범위](../examples/README.md)를 함께 볼 수 있습니다.
 
 ## 상황

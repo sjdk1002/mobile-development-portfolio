@@ -1,0 +1,85 @@
+{
+  "checkedAt": "2026-10-20",
+  "sourceKind": "Official App Store public promotional screenshots",
+  "presentation": "External image embeds; product artwork remains with its respective rights holder.",
+  "apps": [
+    {
+      "key": "carchap",
+      "file": "carchap-ios.md",
+      "name": "카찹 iOS",
+      "stack": "Swift · UIKit",
+      "summary": "카풀·택시팟 검색, 채팅과 이동수단 지도",
+      "storeUrl": "https://apps.apple.com/kr/app/id1506198003",
+      "checkedAt": "2026-10-20",
+      "screenshots": [
+        {
+          "title": "출도착지·날짜로 검색",
+          "storePosition": 2,
+          "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c9/0f/28/c90f2842-291e-96d6-0977-ffcb84a852e8/53fecfdc-cfa3-4064-9f07-a3d3ce08ee8a_iOS_U1109_U1173_U110f_U1173_U1105_U1175_U11ab_U1109_U1163_U11ba__U110f_U1173_U11ab_U1109_U1161_U110b_U1175_U110c_U11732.jpg/600x1300bb-60.jpg"
+        },
+        {
+          "title": "채팅으로 일정 조율",
+          "storePosition": 6,
+          "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9b/05/be/9b05be35-1d9c-2c82-00eb-39c4471dd812/904020e1-e1d3-473e-b57e-3820ef0ff8b8_iOS_U1109_U1173_U110f_U1173_U1105_U1175_U11ab_U1109_U1163_U11ba__U110f_U1173_U11ab_U1109_U1161_U110b_U1175_U110c_U11736.jpg/600x1300bb-60.jpg"
+        },
+        {
+          "title": "주변 이동수단 지도",
+          "storePosition": 7,
+          "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ff/b8/bf/ffb8bf00-f06e-a980-da5c-123f45a3064b/afbb4791-1ef6-487c-9e3e-fed5a7e094a2_iOS_U1109_U1173_U110f_U1173_U1105_U1175_U11ab_U1109_U1163_U11ba__U110f_U1173_U11ab_U1109_U1161_U110b_U1175_U110c_U11737.jpg/600x1300bb-60.jpg"
+        }
+      ]
+    },
+    {
+      "key": "biz",
+      "file": "h2care-biz.md",
+      "name": "H2CARE Biz",
+      "stack": "React · TypeScript · Capacitor",
+      "summary": "충전소 운영정보, 예약 스케줄과 공지 관리",
+      "storeUrl": "https://apps.apple.com/kr/app/id6744343740",
+      "checkedAt": "2026-10-20",
+      "screenshots": [
+        {
+          "title": "운영상태 확인·변경",
+          "storePosition": 3,
+          "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c3/91/ad/c391ad43-1c7b-6ded-ce31-d191b37a0fc0/_U1107_U1175_U110c_U1173__U110b_U1162_U11b8_U1109_U1173_U110f_U1173_U1105_U1175_U11ab_U1109_U1163_U11ba_03.png/600x1300bb-60.jpg"
+        },
+        {
+          "title": "예약 스케줄 관리",
+          "storePosition": 5,
+          "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/bb/29/4d/bb294dcf-2ced-3748-90ef-072a50216eab/_U1107_U1175_U110c_U1173__U110b_U1162_U11b8_U1109_U1173_U110f_U1173_U1105_U1175_U11ab_U1109_U1163_U11ba_05.png/600x1300bb-60.jpg"
+        },
+        {
+          "title": "충전소 공지 관리",
+          "storePosition": 6,
+          "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a2/b8/c7/a2b8c708-d2b3-2e5c-b7d3-74d0ce57d26b/_U1107_U1175_U110c_U1173__U110b_U1162_U11b8_U1109_U1173_U110f_U1173_U1105_U1175_U11ab_U1109_U1163_U11ba_06.png/600x1300bb-60.jpg"
+        }
+      ]
+    },
+    {
+      "key": "h2care",
+      "file": "h2care.md",
+      "name": "H2CARE 사용자 앱",
+      "stack": "Flutter · Dart · Riverpod",
+      "summary": "충전소 검색, 상태 확인과 충전 예약",
+      "storeUrl": "https://apps.apple.com/kr/app/id6744085130",
+      "checkedAt": "2026-10-20",
+      "screenshots": [
+        {
+          "title": "주변 충전소 검색",
+          "storePosition": 3,
+          "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d4/43/6d/d4436deb-32e8-da30-61a0-2d589dad8046/_U1112_U1161_U110b_U1175_U110f_U1166_U110b_U1165__U110b_U1162_U11b8_U1109_U1173_U110f_U1173_U1105_U1175_U11ab_U1109_U1163_U11ba_03.png/600x1300bb-60.jpg"
+        },
+        {
+          "title": "충전소 상세·상태 확인",
+          "storePosition": 4,
+          "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/89/9f/12/899f123b-fcd9-8918-925e-ff4c0ad62cb0/_U1112_U1161_U110b_U1175_U110f_U1166_U110b_U1165__U110b_U1162_U11b8_U1109_U1173_U110f_U1173_U1105_U1175_U11ab_U1109_U1163_U11ba_04.png/600x1300bb-60.jpg"
+        },
+        {
+          "title": "날짜·시간을 골라 예약",
+          "storePosition": 6,
+          "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ca/69/2b/ca692bad-3ff5-64b5-052f-efdbf9f348c3/_U1112_U1161_U110b_U1175_U110f_U1166_U110b_U1165__U110b_U1162_U11b8_U1109_U1173_U110f_U1173_U1105_U1175_U11ab_U1109_U1163_U11ba_06.png/600x1300bb-60.jpg"
+        }
+      ]
+    }
+  ]
+}

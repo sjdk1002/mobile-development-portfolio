@@ -6,7 +6,20 @@
 모바일 앱을 중심으로 웹, 네이티브 기능, API와 운영 중 문제를 연결해 해결해왔습니다.
 
 이 저장소에는 직접 맡았던 작업 중 설명할 수 있는 사례를 정리했습니다.
-처리 흐름과 변경 내용을 글과 도식으로 담았습니다.
+앱 화면과 사용 흐름, 처리 과정과 변경 내용을 정리했습니다.
+
+## 개발한 앱 화면
+
+실제 서비스의 공개 UI와 사용 순서, 화면 뒤에서 처리한 일을 함께 정리했습니다.
+아래 이미지는 공식 App Store의 공개 스크린샷·홍보 이미지입니다.
+
+| 카찹 iOS | H2CARE Biz | H2CARE 사용자 앱 |
+| --- | --- | --- |
+| <a href="apps/carchap-ios.md"><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c9/0f/28/c90f2842-291e-96d6-0977-ffcb84a852e8/53fecfdc-cfa3-4064-9f07-a3d3ce08ee8a_iOS_U1109_U1173_U110f_U1173_U1105_U1175_U11ab_U1109_U1163_U11ba__U110f_U1173_U11ab_U1109_U1161_U110b_U1175_U110c_U11732.jpg/600x1300bb-60.jpg" width="230" alt="카찹 iOS 공개 UI"></a> | <a href="apps/h2care-biz.md"><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c3/91/ad/c391ad43-1c7b-6ded-ce31-d191b37a0fc0/_U1107_U1175_U110c_U1173__U110b_U1162_U11b8_U1109_U1173_U110f_U1173_U1105_U1175_U11ab_U1109_U1163_U11ba_03.png/600x1300bb-60.jpg" width="230" alt="H2CARE Biz 공개 UI"></a> | <a href="apps/h2care.md"><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d4/43/6d/d4436deb-32e8-da30-61a0-2d589dad8046/_U1112_U1161_U110b_U1175_U110f_U1166_U110b_U1165__U110b_U1162_U11b8_U1109_U1173_U110f_U1173_U1105_U1175_U11ab_U1109_U1163_U11ba_03.png/600x1300bb-60.jpg" width="230" alt="H2CARE 사용자 앱 공개 UI"></a> |
+| Swift · UIKit | React · TypeScript · Capacitor | Flutter · Dart · Riverpod |
+| [카풀·택시팟 검색, 채팅과 이동수단 지도](apps/carchap-ios.md) | [충전소 운영정보, 예약 스케줄과 공지 관리](apps/h2care-biz.md) | [충전소 검색, 상태 확인과 충전 예약](apps/h2care.md) |
+
+[앱별 화면·구동 방식과 이미지 출처](apps/README.md)
 
 ## 공개용 코드
 
